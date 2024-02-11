@@ -1,0 +1,50 @@
+09:11:46.391 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7e3060d8: 0 ms
+09:13:17.975 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\master.xml"
+09:13:18.280 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\master.xml
+
+09:13:31.028 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+09:14:42.211 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\master.xml"
+09:14:42.506 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\master.xml
+
+09:15:24.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+09:15:41.214 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\master.xml"
+09:15:41.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\master.xml
+
+09:15:46.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+17:24:50.455 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\master.xml"
+17:24:50.789 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\master.xml
+
+17:25:04.298 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+17:26:21.638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\master.xml"
+17:26:21.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\master.xml
+
+17:26:25.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+17:26:25.738 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** clicked on my account***
+17:26:26.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** clicked on register ***
+05:35:45.996 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\grouping.xml"
+05:35:46.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\grouping.xml
+
+05:35:50.138 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+05:35:50.326 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** clicked on my account***
+05:35:50.669 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** clicked on register ***
+05:37:58.588 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\grouping.xml"
+05:37:58.838 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\grouping.xml
+
+05:38:01.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** starting driver ***
+05:38:03.608 [main] INFO  testCases.TC_002_LoginTest - *** started***
+08:01:31.046 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\grouping.xml"
+08:01:31.484 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\grouping.xml
+
+08:02:27.428 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\grouping.xml"
+08:02:27.873 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\44782\eclipse-workspace\opencart\grouping.xml
+
+06:08:20.108 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\44782\eclipse-workspace\opencart\grouping.xml"
